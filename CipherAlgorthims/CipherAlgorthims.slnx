@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="../AESCipher/AESCipher.csproj" Id="3ed47e82-1f83-4d12-8a2b-64283d76a394" />
+  <Project Path="../AffineCipher/AffineCipher.csproj" Id="2801cc96-06c6-4ebb-91af-8bff0c77438d" />
+  <Project Path="../AtbashCipher/AtbashCipher.csproj" Id="9bb0556c-602f-43ed-b51c-ec72eaf47ddd" />
+  <Project Path="../clsCipherAlgorthim/clsCipherAlgorthim.csproj" Id="388bc515-a653-40e6-8a4a-1bd7e5007357" />
+  <Project Path="../HSACipher/HSACipher.csproj" Id="0430e6e1-45c8-455b-ba09-9f7dcc9fb813" />
+  <Project Path="../MDFiveCipher/MDFiveCipher.csproj" Id="34500ff2-7e42-4564-b4c9-56227ac2cf79" />
+  <Project Path="../QaeserCipher/QaeserCipher.csproj" Id="a501d524-1810-4318-b340-87d8692be234" />
+  <Project Path="../Root13Cipher/Root13Cipher.csproj" Id="f3f2b929-1e6b-4857-a56e-f3b4e433ff18" />
+  <Project Path="../RSACipher/RSACipher.csproj" Id="6e5a4111-95ad-4810-8a83-863a369a7e63" />
+  <Project Path="../SimpleVenegerCipher/SimpleVenegerCipher.csproj" Id="2438c498-97e6-4fb1-a093-aabf67ead068" />
+  <Project Path="CipherAlgorthims.csproj" Id="090c9d98-5a12-482c-9403-195c53745771" />
+</Solution>
