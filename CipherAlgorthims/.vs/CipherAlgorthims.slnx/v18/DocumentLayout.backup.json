@@ -3,21 +3,17 @@
   "WorkspaceRootPath": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\CipherAlgorthims\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E5A4111-95AD-4810-8A83-863A369A7E63}|..\\RSACipher\\RSACipher.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\rsacipher\\rsacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\cipheralgorthims\\frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|solutionrelative:frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E5A4111-95AD-4810-8A83-863A369A7E63}|..\\RSACipher\\RSACipher.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\rsacipher\\rsacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9DF668B-3455-4750-A765-8441BCED4FE2}|..\\Server\\Server.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\server\\frm_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{388BC515-A653-40E6-8A4A-1BD7E5007357}|..\\clsCipherAlgorthim\\clsCipherAlgorthim.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\clscipheralgorthim\\clscipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\cipheralgorthims\\frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|solutionrelative:frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\cipheralgorthims\\frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{090C9D98-5A12-482C-9403-195C53745771}|CipherAlgorthims.csproj|solutionrelative:frm_cipheralgorthims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA5EBD9C-BB88-4385-B158-DD48BFD579CA}|..\\Client\\Client.csproj|d:\\my_projects\\informationsecurity\\abdullahabdulahamidsalem\\client\\frm_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,46 +23,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RSACipher.cs",
-              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\RSACipher\\RSACipher.cs",
-              "RelativeDocumentMoniker": "..\\RSACipher\\RSACipher.cs",
-              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\RSACipher\\RSACipher.cs*",
-              "RelativeToolTip": "..\\RSACipher\\RSACipher.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T07:42:57.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RSACipher.cs [Design]",
-              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\RSACipher\\RSACipher.cs",
-              "RelativeDocumentMoniker": "..\\RSACipher\\RSACipher.cs",
-              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\RSACipher\\RSACipher.cs [Design]*",
-              "RelativeToolTip": "..\\RSACipher\\RSACipher.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T07:42:55.321Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsCipherAlgorthims.cs",
-              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
-              "RelativeDocumentMoniker": "..\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
-              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
-              "RelativeToolTip": "..\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
-              "ViewState": "AgIAAGcBAAAAAAAAAAAiwHcBAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T07:41:12.901Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -77,28 +35,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frm_CipherAlgorthims.cs",
-              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\CipherAlgorthims\\frm_CipherAlgorthims.cs",
-              "RelativeDocumentMoniker": "frm_CipherAlgorthims.cs",
-              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\CipherAlgorthims\\frm_CipherAlgorthims.cs",
-              "RelativeToolTip": "frm_CipherAlgorthims.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEEAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "clsCipherAlgorthims.cs",
+              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
+              "RelativeDocumentMoniker": "..\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
+              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
+              "RelativeToolTip": "..\\clsCipherAlgorthim\\clsCipherAlgorthims.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAADwvxwBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T07:39:12.232Z",
+              "WhenOpened": "2026-07-08T06:42:16.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "frm_CipherAlgorthims.cs [Design]",
               "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\CipherAlgorthims\\frm_CipherAlgorthims.cs",
               "RelativeDocumentMoniker": "frm_CipherAlgorthims.cs",
               "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\CipherAlgorthims\\frm_CipherAlgorthims.cs [Design]",
               "RelativeToolTip": "frm_CipherAlgorthims.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T07:39:09.466Z",
+              "WhenOpened": "2026-07-08T06:32:59.432Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Server.cs",
+              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\Server\\frm_Server.cs",
+              "RelativeDocumentMoniker": "..\\Server\\frm_Server.cs",
+              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\Server\\frm_Server.cs",
+              "RelativeToolTip": "..\\Server\\frm_Server.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwFMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:11:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Client.cs",
+              "DocumentMoniker": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\Client\\frm_Client.cs",
+              "RelativeDocumentMoniker": "..\\Client\\frm_Client.cs",
+              "ToolTip": "D:\\My_Projects\\InformationSecurity\\AbdullahAbdulahamidSalem\\Client\\frm_Client.cs",
+              "RelativeToolTip": "..\\Client\\frm_Client.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:41:36.888Z",
+              "EditorCaption": ""
             }
           ]
         }

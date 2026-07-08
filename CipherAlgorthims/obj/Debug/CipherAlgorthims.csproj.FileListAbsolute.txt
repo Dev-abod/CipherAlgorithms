@@ -38,3 +38,9 @@ D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin
 D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\MDFiveCipher.exe.config
 D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\RSACipher.pdb
 D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\RSACipher.exe.config
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Client.exe
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Server.exe
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Client.pdb
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Client.exe.config
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Server.pdb
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\CipherAlgorthims\bin\Debug\Server.exe.config

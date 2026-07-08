@@ -1,0 +1,13 @@
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\bin\Debug\Server.exe.config
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\bin\Debug\Server.exe
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\bin\Debug\Server.pdb
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.frm_Server.resources
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.Properties.Resources.resources
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.exe
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.pdb
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\bin\Debug\clsCipherAlgorthim.dll
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\bin\Debug\clsCipherAlgorthim.pdb
+D:\My_Projects\InformationSecurity\AbdullahAbdulahamidSalem\Server\obj\Debug\Server.csproj.Up2Date

@@ -30,24 +30,26 @@
         {
             this.btn_Qaeser = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btn_AtbashCipher = new System.Windows.Forms.Button();
-            this.btn_Root13Cipher = new System.Windows.Forms.Button();
-            this.btn_SimpleVengereCipher = new System.Windows.Forms.Button();
             this.btn_AffineCipher = new System.Windows.Forms.Button();
+            this.btn_SimpleVengereCipher = new System.Windows.Forms.Button();
+            this.btn_Root13Cipher = new System.Windows.Forms.Button();
+            this.btn_AtbashCipher = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.btn_AESCipher = new System.Windows.Forms.Button();
             this.btn_RSACipher = new System.Windows.Forms.Button();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.btn_AESCipher = new System.Windows.Forms.Button();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.btn_MD5Cipher = new System.Windows.Forms.Button();
             this.btn_HSA256Cipher = new System.Windows.Forms.Button();
+            this.btn_MD5Cipher = new System.Windows.Forms.Button();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.btn_Chat = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.groupBox5.SuspendLayout();
+            this.groupBox6.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn_Qaeser
@@ -75,27 +77,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Classical Cryptography";
             // 
-            // btn_AtbashCipher
+            // btn_AffineCipher
             // 
-            this.btn_AtbashCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btn_AtbashCipher.Location = new System.Drawing.Point(39, 86);
-            this.btn_AtbashCipher.Name = "btn_AtbashCipher";
-            this.btn_AtbashCipher.Size = new System.Drawing.Size(148, 32);
-            this.btn_AtbashCipher.TabIndex = 1;
-            this.btn_AtbashCipher.Text = "Atbash Cipher";
-            this.btn_AtbashCipher.UseVisualStyleBackColor = true;
-            this.btn_AtbashCipher.Click += new System.EventHandler(this.btn_AtbashCipher_Click);
-            // 
-            // btn_Root13Cipher
-            // 
-            this.btn_Root13Cipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btn_Root13Cipher.Location = new System.Drawing.Point(224, 37);
-            this.btn_Root13Cipher.Name = "btn_Root13Cipher";
-            this.btn_Root13Cipher.Size = new System.Drawing.Size(148, 32);
-            this.btn_Root13Cipher.TabIndex = 2;
-            this.btn_Root13Cipher.Text = "Root13 Cipher";
-            this.btn_Root13Cipher.UseVisualStyleBackColor = true;
-            this.btn_Root13Cipher.Click += new System.EventHandler(this.btn_Root13Cipher_Click);
+            this.btn_AffineCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_AffineCipher.Location = new System.Drawing.Point(224, 86);
+            this.btn_AffineCipher.Name = "btn_AffineCipher";
+            this.btn_AffineCipher.Size = new System.Drawing.Size(148, 32);
+            this.btn_AffineCipher.TabIndex = 4;
+            this.btn_AffineCipher.Text = "Affine Cipher";
+            this.btn_AffineCipher.UseVisualStyleBackColor = true;
+            this.btn_AffineCipher.Click += new System.EventHandler(this.btn_AffineCipher_Click);
             // 
             // btn_SimpleVengereCipher
             // 
@@ -108,16 +99,27 @@
             this.btn_SimpleVengereCipher.UseVisualStyleBackColor = true;
             this.btn_SimpleVengereCipher.Click += new System.EventHandler(this.btn_SimpleVengereCipher_Click);
             // 
-            // btn_AffineCipher
+            // btn_Root13Cipher
             // 
-            this.btn_AffineCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btn_AffineCipher.Location = new System.Drawing.Point(224, 86);
-            this.btn_AffineCipher.Name = "btn_AffineCipher";
-            this.btn_AffineCipher.Size = new System.Drawing.Size(148, 32);
-            this.btn_AffineCipher.TabIndex = 4;
-            this.btn_AffineCipher.Text = "Affine Cipher";
-            this.btn_AffineCipher.UseVisualStyleBackColor = true;
-            this.btn_AffineCipher.Click += new System.EventHandler(this.btn_AffineCipher_Click);
+            this.btn_Root13Cipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_Root13Cipher.Location = new System.Drawing.Point(224, 37);
+            this.btn_Root13Cipher.Name = "btn_Root13Cipher";
+            this.btn_Root13Cipher.Size = new System.Drawing.Size(148, 32);
+            this.btn_Root13Cipher.TabIndex = 2;
+            this.btn_Root13Cipher.Text = "Root13 Cipher";
+            this.btn_Root13Cipher.UseVisualStyleBackColor = true;
+            this.btn_Root13Cipher.Click += new System.EventHandler(this.btn_Root13Cipher_Click);
+            // 
+            // btn_AtbashCipher
+            // 
+            this.btn_AtbashCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_AtbashCipher.Location = new System.Drawing.Point(39, 86);
+            this.btn_AtbashCipher.Name = "btn_AtbashCipher";
+            this.btn_AtbashCipher.Size = new System.Drawing.Size(148, 32);
+            this.btn_AtbashCipher.TabIndex = 1;
+            this.btn_AtbashCipher.Text = "Atbash Cipher";
+            this.btn_AtbashCipher.UseVisualStyleBackColor = true;
+            this.btn_AtbashCipher.Click += new System.EventHandler(this.btn_AtbashCipher_Click);
             // 
             // groupBox2
             // 
@@ -130,16 +132,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Modern Cryptography";
             // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.btn_AESCipher);
-            this.groupBox3.Location = new System.Drawing.Point(30, 39);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(284, 103);
-            this.groupBox3.TabIndex = 0;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Symmetric Encryption";
-            // 
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.btn_RSACipher);
@@ -149,17 +141,6 @@
             this.groupBox4.TabIndex = 1;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Asymmetric Encryption)";
-            // 
-            // btn_AESCipher
-            // 
-            this.btn_AESCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btn_AESCipher.Location = new System.Drawing.Point(69, 42);
-            this.btn_AESCipher.Name = "btn_AESCipher";
-            this.btn_AESCipher.Size = new System.Drawing.Size(148, 32);
-            this.btn_AESCipher.TabIndex = 5;
-            this.btn_AESCipher.Text = "AES Cipher";
-            this.btn_AESCipher.UseVisualStyleBackColor = true;
-            this.btn_AESCipher.Click += new System.EventHandler(this.btn_AESCipher_Click);
             // 
             // btn_RSACipher
             // 
@@ -172,6 +153,27 @@
             this.btn_RSACipher.UseVisualStyleBackColor = true;
             this.btn_RSACipher.Click += new System.EventHandler(this.btn_RSACipher_Click);
             // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.btn_AESCipher);
+            this.groupBox3.Location = new System.Drawing.Point(30, 39);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(284, 103);
+            this.groupBox3.TabIndex = 0;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Symmetric Encryption";
+            // 
+            // btn_AESCipher
+            // 
+            this.btn_AESCipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_AESCipher.Location = new System.Drawing.Point(69, 42);
+            this.btn_AESCipher.Name = "btn_AESCipher";
+            this.btn_AESCipher.Size = new System.Drawing.Size(148, 32);
+            this.btn_AESCipher.TabIndex = 5;
+            this.btn_AESCipher.Text = "AES Cipher";
+            this.btn_AESCipher.UseVisualStyleBackColor = true;
+            this.btn_AESCipher.Click += new System.EventHandler(this.btn_AESCipher_Click);
+            // 
             // groupBox5
             // 
             this.groupBox5.Controls.Add(this.btn_HSA256Cipher);
@@ -182,17 +184,6 @@
             this.groupBox5.TabIndex = 6;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Hash Functions";
-            // 
-            // btn_MD5Cipher
-            // 
-            this.btn_MD5Cipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btn_MD5Cipher.Location = new System.Drawing.Point(30, 35);
-            this.btn_MD5Cipher.Name = "btn_MD5Cipher";
-            this.btn_MD5Cipher.Size = new System.Drawing.Size(148, 32);
-            this.btn_MD5Cipher.TabIndex = 6;
-            this.btn_MD5Cipher.Text = "MD5 Cipher";
-            this.btn_MD5Cipher.UseVisualStyleBackColor = true;
-            this.btn_MD5Cipher.Click += new System.EventHandler(this.btn_MD5Cipher_Click);
             // 
             // btn_HSA256Cipher
             // 
@@ -205,14 +196,37 @@
             this.btn_HSA256Cipher.UseVisualStyleBackColor = true;
             this.btn_HSA256Cipher.Click += new System.EventHandler(this.btn_HSA256Cipher_Click);
             // 
+            // btn_MD5Cipher
+            // 
+            this.btn_MD5Cipher.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_MD5Cipher.Location = new System.Drawing.Point(30, 35);
+            this.btn_MD5Cipher.Name = "btn_MD5Cipher";
+            this.btn_MD5Cipher.Size = new System.Drawing.Size(148, 32);
+            this.btn_MD5Cipher.TabIndex = 6;
+            this.btn_MD5Cipher.Text = "MD5 Cipher";
+            this.btn_MD5Cipher.UseVisualStyleBackColor = true;
+            this.btn_MD5Cipher.Click += new System.EventHandler(this.btn_MD5Cipher_Click);
+            // 
             // groupBox6
             // 
+            this.groupBox6.Controls.Add(this.btn_Chat);
             this.groupBox6.Location = new System.Drawing.Point(247, 369);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(429, 133);
             this.groupBox6.TabIndex = 8;
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Hash Functions";
+            // 
+            // btn_Chat
+            // 
+            this.btn_Chat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btn_Chat.Location = new System.Drawing.Point(65, 54);
+            this.btn_Chat.Name = "btn_Chat";
+            this.btn_Chat.Size = new System.Drawing.Size(315, 32);
+            this.btn_Chat.TabIndex = 8;
+            this.btn_Chat.Text = "Chat";
+            this.btn_Chat.UseVisualStyleBackColor = true;
+            this.btn_Chat.Click += new System.EventHandler(this.btn_Chat_Click);
             // 
             // frm_CipherAlgorthims
             // 
@@ -227,9 +241,10 @@
             this.Text = "Cipher Algorthims";
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
-            this.groupBox3.ResumeLayout(false);
             this.groupBox4.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
             this.groupBox5.ResumeLayout(false);
+            this.groupBox6.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -251,6 +266,7 @@
         private System.Windows.Forms.Button btn_HSA256Cipher;
         private System.Windows.Forms.Button btn_MD5Cipher;
         private System.Windows.Forms.GroupBox groupBox6;
+        private System.Windows.Forms.Button btn_Chat;
     }
 }
 

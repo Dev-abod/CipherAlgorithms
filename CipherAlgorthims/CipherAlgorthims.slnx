@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/UDPChat/">
+    <Project Path="../Client/Client.csproj" Id="ca5ebd9c-bb88-4385-b158-dd48bfd579ca" />
+    <Project Path="../Server/Server.csproj" Id="f9df668b-3455-4750-a765-8441bced4fe2" />
+  </Folder>
   <Project Path="../AESCipher/AESCipher.csproj" Id="3ed47e82-1f83-4d12-8a2b-64283d76a394" />
   <Project Path="../AffineCipher/AffineCipher.csproj" Id="2801cc96-06c6-4ebb-91af-8bff0c77438d" />
   <Project Path="../AtbashCipher/AtbashCipher.csproj" Id="9bb0556c-602f-43ed-b51c-ec72eaf47ddd" />

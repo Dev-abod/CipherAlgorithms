@@ -92,6 +92,10 @@
       <Project>{9bb0556c-602f-43ed-b51c-ec72eaf47ddd}</Project>
       <Name>AtbashCipher</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Client\Client.csproj">
+      <Project>{ca5ebd9c-bb88-4385-b158-dd48bfd579ca}</Project>
+      <Name>Client</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HSACipher\HSACipher.csproj">
       <Project>{0430e6e1-45c8-455b-ba09-9f7dcc9fb813}</Project>
       <Name>HSACipher</Name>
@@ -111,6 +115,10 @@
     <ProjectReference Include="..\RSACipher\RSACipher.csproj">
       <Project>{6e5a4111-95ad-4810-8a83-863a369a7e63}</Project>
       <Name>RSACipher</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server\Server.csproj">
+      <Project>{f9df668b-3455-4750-a765-8441bced4fe2}</Project>
+      <Name>Server</Name>
     </ProjectReference>
     <ProjectReference Include="..\SimpleVenegerCipher\SimpleVenegerCipher.csproj">
       <Project>{2438c498-97e6-4fb1-a093-aabf67ead068}</Project>

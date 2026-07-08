@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clsCipherCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb6d1e6449b0fd721436c049ecb92e3bc09a0bf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("clsCipherCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clsCipherCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

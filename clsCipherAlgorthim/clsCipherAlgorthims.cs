@@ -283,8 +283,6 @@ namespace clsCipherAlgorthim
                 byte[] data;
                 using (Aes aes = Aes.Create())
                 {
-                    //aes.GenerateIV();
-                    //IV = aes.IV;
                     using (MemoryStream ms = new MemoryStream())
                     {
                         using (CryptoStream cs = new CryptoStream(

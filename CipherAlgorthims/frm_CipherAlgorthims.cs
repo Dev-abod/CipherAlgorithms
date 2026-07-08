@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using QaeserCipher;
+
 
 namespace CipherAlgorthims
 {
@@ -70,6 +70,14 @@ namespace CipherAlgorthims
         {
             HSACipher.HSACipher hsaCipher = new HSACipher.HSACipher();
             hsaCipher.Show();
+        }
+
+        private void btn_Chat_Click(object sender, EventArgs e)
+        {
+            Client.frm_Client clientForm = new Client.frm_Client();
+            clientForm.Show();
+            Server.frm_Server serverForm = new Server.frm_Server();
+            serverForm.Show();
         }
     }
 }
